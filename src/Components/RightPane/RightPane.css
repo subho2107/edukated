@@ -1,0 +1,4 @@
+.divide{
+    display: grid;
+    grid-template-rows: 0.17fr 0.75fr 0.5fr;
+}

@@ -1,0 +1,12 @@
+.toggle{
+    position: relative;
+    color: grey;
+    vertical-align: bottom;
+}
+.toggle:focus {
+    outline: none;
+}
+
+.toggle:focus + .dropdown {
+    display: block;
+}

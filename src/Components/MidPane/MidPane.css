@@ -1,0 +1,5 @@
+.containerMid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.45fr 0.5fr 0.3fr;
+}

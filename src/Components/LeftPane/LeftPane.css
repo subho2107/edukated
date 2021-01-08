@@ -1,0 +1,45 @@
+
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+.leftContainer{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.15fr 0.5fr 0.29fr;
+    border-right: 1px solid lightgray;
+    width: 2fr;
+}
+.compressContainer{
+    height: 5em;
+}
+.logo{
+    width: 15px;
+    height: 15px;
+}
+.topContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+.navbar{
+    position: relative;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 50px;
+}
+ul:hover .material-icons{
+    color: orangered !important;
+}
+.material-icons,
+.icon-text {
+    vertical-align: middle;
+}
+.material-icons {
+    padding-bottom: 3px;
+    margin-right: 30px;
+}
+.buffer{
+    line-height: 100px;
+}

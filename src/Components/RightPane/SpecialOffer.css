@@ -1,0 +1,8 @@
+.backgroundImage{
+    background-image: url("https://cutt.ly/NjkVOym");
+    width: 20em;
+    height: 10em;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

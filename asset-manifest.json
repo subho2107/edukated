@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/edukated/static/css/main.7e5aaa8d.chunk.css",
+    "main.js": "/edukated/static/js/main.c47bb2b7.chunk.js",
+    "main.js.map": "/edukated/static/js/main.c47bb2b7.chunk.js.map",
+    "runtime-main.js": "/edukated/static/js/runtime-main.21bb1436.js",
+    "runtime-main.js.map": "/edukated/static/js/runtime-main.21bb1436.js.map",
+    "static/css/2.31461e4f.chunk.css": "/edukated/static/css/2.31461e4f.chunk.css",
+    "static/js/2.2491c1fa.chunk.js": "/edukated/static/js/2.2491c1fa.chunk.js",
+    "static/js/2.2491c1fa.chunk.js.map": "/edukated/static/js/2.2491c1fa.chunk.js.map",
+    "static/js/3.a9be0219.chunk.js": "/edukated/static/js/3.a9be0219.chunk.js",
+    "static/js/3.a9be0219.chunk.js.map": "/edukated/static/js/3.a9be0219.chunk.js.map",
+    "index.html": "/edukated/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/edukated/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.7e5aaa8d.chunk.css.map": "/edukated/static/css/main.7e5aaa8d.chunk.css.map",
+    "static/js/2.2491c1fa.chunk.js.LICENSE.txt": "/edukated/static/js/2.2491c1fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21bb1436.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.2491c1fa.chunk.js",
+    "static/css/main.7e5aaa8d.chunk.css",
+    "static/js/main.c47bb2b7.chunk.js"
+  ]
+}

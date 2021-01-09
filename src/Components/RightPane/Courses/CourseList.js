@@ -23,7 +23,7 @@ const CourseList = () =>{
                                 <h6 className='mt3 mb0 nowrap'>Rwds Agency</h6>
                                 <h6 className='mv1'>@rwds_tuts</h6>
                             </div>
-                            <div className="br-pill bd white bg-orange tc backgroundCustom ml6-l">64 min</div>
+                            <div className="br-pill bd white bg-orange tc backgroundCustom ml6-l w-40">64 min</div>
                         </div>
                         <p className='tl f7 pa2 br4 fw4 db white lh-copy mv6 backgroundFooter ma1'
                            style={{backgroundColor: 'navy', margin:'1em'}}>Making a Beautiful Scene with New Presets, Created by Senior Illustrator</p>
